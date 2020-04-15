@@ -1,5 +1,5 @@
 ## MTN co-te-d-Ivoire 
-Context: Mtn wants to updgrade its network:
+Context: Mtn wants to updgrade its networ in different regions of the country
 ### problem statement: 
 Advice on the network upgrade plan with justification
 #### Solution.
